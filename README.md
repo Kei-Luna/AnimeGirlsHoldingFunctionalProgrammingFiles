@@ -1,9 +1,11 @@
 # animepython
- Decompiled and compiled ~~lua~~ python files for a certain anime game that i cannot say
+ Decompiled and compiled Anime Girls who hold functional programming books
+ 
+ ![](https://github.com/TheLostTree/AnimeGirlsHoldingFunctionalProgrammingFiles/blob/main/Megumin_Holding_C_Programming_Language.jpeg)
 
 
 Updated for 2.6.51
 
 
- Massive thanks to radioegor(assetIndex), khangaroo(blkstuff), Partypooper(unluac-fork), and Razmoth(AssetStudio-CAB)
+ Massive thanks to radioegor(assetIndex), khangaroo(blkstuff), Partypooper(un~~lua~~animegirlc-fork), and Razmoth(AssetStudio-CAB)
 
